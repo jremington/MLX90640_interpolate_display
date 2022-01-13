@@ -1,5 +1,5 @@
 # MLX90640_interpolate_display
-Code to acquire 32x24 images from MLX90640 IR camera, bicubic interpolate and display on 320x240 TFT
+Code to acquire 32x24 images from MLX90640 IR camera, bicubic interpolate and display as 320x240 image
 
 This project uses a Teensy 3.2 to acquire images from the MLX90640 thermal imaging camera, and displays them on a 480x320 pixel TFT display. 
 
